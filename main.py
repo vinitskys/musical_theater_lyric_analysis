@@ -1,0 +1,5 @@
+from read_musicals import read_musicals
+from read_songs import read_songs_from_all_musicals
+
+read_musicals()
+read_songs_from_all_musicals()
