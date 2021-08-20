@@ -8,7 +8,7 @@ import pandas as pd
 from utils import io
 from utils.config import Config
 
-def read_songs_from_single_musical_url(musical_title, musical_url):
+def read_songs_from_single_musical(musical_title, musical_url):
     """
     Queries 'url' to get a dataframe of song info, with columns `Config.song_list_columns`
     """
@@ -82,7 +82,7 @@ def read_songs_from_all_musicals():
         musical_url_suffix = row['musical_url_suffix']
         musical_url = f'{Config.base_url}{musical_url_suffix}'
 
-        my_songs_df = read_songs_from_single_musical_url(musical_title=musical_title, musical_url=musical_url)
+        my_songs_df = read_songs_from_single_musical(musical_title=musical_title, musical_url=musical_url)
 
         all_songs_df = all_songs_df.append(my_songs_df)
 

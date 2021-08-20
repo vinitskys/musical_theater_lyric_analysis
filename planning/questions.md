@@ -12,6 +12,15 @@
 - How many unique combinations of chraracters sing together?
 - Do shows with more leads do better?
 
+Vocabulary
+- song / character / shows vocab size 
+- unique words?
+- distribution of meaningful words/pronouns/names/prepositions
+    density per line/song/char
+
+sentiment analysis?
+
+
 #### Simple N-grams
 - What are the N-grams that appear in the most shows?
 - What are the N-grams that appear MOST in EACH show?
