@@ -1,5 +1,9 @@
 # Questions:
 
+#### High level
+- What lyrical features impact musical quality?
+- Does this change over time? (i.e. the standard for a "good musical lyric")
+
 #### Character Counts
 - How many characters sing a significant amount? -- tagging "leads"
 - How many characters have their own songs?

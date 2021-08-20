@@ -4,6 +4,7 @@
 * Off broadway?
 * Awards (tony, etc, which categories)
 * Subjective "popularity" (see below)
+* Lyricist
 
 #### Popularity scale
 * 5: Very well known, broadly (Hamilton, Wicked, Rent)
