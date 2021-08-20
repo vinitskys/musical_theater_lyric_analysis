@@ -6,7 +6,7 @@
 * Subjective "popularity" (see below)
 * Lyricist
 
-#### Popularity scale
+#### Popularity scale -- 'musical_popularity_manual.csv'
 * 5: Very well known, broadly (Hamilton, Wicked, Rent)
 * 4: Very well known w/in MT (Hairspray, Into the Woods, Spring Awakening, Next to Normal)
 * 3: Somewhat known w/in MT (Parade, Light in the Piazza, Company, Pirates)
